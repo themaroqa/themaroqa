@@ -1,16 +1,21 @@
-### Hi there 👋
+### That's me
 
-<!--
-**themaroqa/themaroqa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My gist repo: https://gist.github.com/themaroqa
 
-Here are some ideas to get you started:
+Working as a devops technical lead in iSolutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Focus on CI/CD and automation in general.
+
+Passionate on soccer and boardgames (not together 😆)
+
+Proud father of Greta and Nicolò.
+
+Contributing on some open source communities like powershell and chef (hope do add more 😉)
+
+See you around!
+
+
+# Contacts
+https://twitter.com/IlMaro89
+
+https://www.linkedin.com/in/matteo-marenghi-a826b988/
