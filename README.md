@@ -10,7 +10,7 @@ Passionate on soccer and boardgames (not together 😆)
 
 Proud father of Greta and Nicolò.
 
-Contributing on some open source communities like powershell and chef (hope do add more 😉)
+Contributing on some open source communities like powershell and chef (hope to add more in the future 😉)
 
 See you around!
 
