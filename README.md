@@ -1,4 +1,4 @@
-### That's me
+# Me
 
 My gist repo: https://gist.github.com/themaroqa
 
