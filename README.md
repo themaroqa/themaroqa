@@ -2,9 +2,9 @@
 
 My gist repo: https://gist.github.com/themaroqa
 
-Working as a devops technical lead in iSolutions.
+Working as a Product Owner in iSolutions.
 
-Focus on CI/CD and automation in general.
+I believe CI/CD and automation in general will save our lifes.
 
 Passionate on soccer and boardgames (not together 😆)
 
