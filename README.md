@@ -14,14 +14,11 @@ Contributing on some open source communities like powershell and chef (hope to a
 
 See you around!
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Matteo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=themaroqa&show_icons=true&hide_border=true&count_private=true&theme=radical" />
-
-</details>
-
 # Contacts
 https://twitter.com/IlMaro89
 
 https://www.linkedin.com/in/matteo-marenghi-a826b988/
+
+# Github Stats
+  
+  <img align="left" alt="Matteo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=themaroqa&show_icons=true&hide_border=true&count_private=true&theme=radical" />
