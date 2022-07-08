@@ -17,7 +17,7 @@ See you around!
 # Contacts
 https://twitter.com/IlMaro89
 
-https://www.linkedin.com/in/matteo-marenghi-a826b988/
+https://www.linkedin.com/in/matteo-marenghi/
 
 # Github Stats
   
