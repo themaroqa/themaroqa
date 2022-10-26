@@ -14,6 +14,11 @@ Contributing on some open source communities like powershell and chef (hope to a
 
 See you around!
 
+I am Microsoft Certified!
+
+![microsoft-certified-azure-fundamentals](https://user-images.githubusercontent.com/23500853/198058821-5ae847db-f944-4d38-86c4-922d383b92cd.png)
+
+
 # Contacts
 https://twitter.com/IlMaro89
 
